@@ -1,9 +1,7 @@
 ﻿using UnityEngine;
-using UnityEditor;
-using System.Collections;
 
 [ExecuteInEditMode]
-public class TerrainGen : MonoBehaviour
+public class AlgRandom: MonoBehaviour
 {
     public int resolution = 2048;
     public float width = 1000;
